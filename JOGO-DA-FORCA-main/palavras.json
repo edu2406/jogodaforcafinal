@@ -1,0 +1,264 @@
+{
+    "palavras": [
+        {
+            "nome": "HISTORIA",
+            "categoria": "CONHECIMENTO"
+        },
+        {
+            "nome": "CIENCIA",
+            "categoria": "CONHECIMENTO"
+        },
+        {
+            "nome": "POLITICA",
+            "categoria": "CONHECIMENTO"
+        },
+        {
+            "nome": "ARTE",
+            "categoria": "CONHECIMENTO"
+        },
+        {
+            "nome": "TECNOLOGIA",
+            "categoria": "CONHECIMENTO"
+        },
+        {
+            "nome": "ONTEM",
+            "categoria": "TEMPO"
+        },
+        {
+            "nome": "AMANHA",
+            "categoria": "TEMPO"
+        },
+        {
+            "nome": "FUTURO",
+            "categoria": "TEMPO"
+        },
+        {
+            "nome": "ANTIGAMENTE",
+            "categoria": "TEMPO"
+        },
+        {
+            "nome": "AGORA",
+            "categoria": "TEMPO"
+        },
+        {
+            "nome": "TEMPESTADE",
+            "categoria": "FENOMENOS DA NATUREZA"
+        },
+        {
+            "nome": "CHUVA",
+            "categoria": "FENOMENOS DA NATUREZA"
+        },
+        {
+            "nome": "VENTANIA",
+            "categoria": "FENOMENOS DA NATUREZA"
+        },
+        {
+            "nome": "NEVE",
+            "categoria": "FENOMENOS DA NATUREZA"
+        },
+        {
+            "nome": "TROVAO",
+            "categoria": "FENOMENOS DA NATUREZA"
+        },
+        {
+            "nome": "ESCOLA",
+            "categoria": "ENSINO"
+        },
+        {
+            "nome": "UNIVERSIDADE",
+            "categoria": "ENSINO"
+        },
+        {
+            "nome": "PROFESSOR",
+            "categoria": "ENSINO"
+        },
+        {
+            "nome": "ALUNO",
+            "categoria": "ENSINO"
+        },
+        {
+            "nome": "EDUCACAO",
+            "categoria": "ENSINO"
+        },
+        {
+            "nome": "BICICLETA",
+            "categoria": "TRANSPORTE"
+        },
+        {
+            "nome": "ONIBUS",
+            "categoria": "TRANSPORTE"
+        },
+        {
+            "nome": "CARRO",
+            "categoria": "TRANSPORTE"
+        },
+        {
+            "nome": "AVIAO",
+            "categoria": "TRANSPORTE"
+        },
+        {
+            "nome": "MOTO",
+            "categoria": "TRANSPORTE"
+        },
+        {
+            "nome": "GATO",
+            "categoria": "ANIMAIS"
+        },
+        {
+            "nome": "URUTAU",
+            "categoria": "ANIMAIS"
+        },
+        {
+            "nome": "PARDAL",
+            "categoria": "ANIMAIS"
+        },
+        {
+            "nome": "COBRA",
+            "categoria": "ANIMAIS"
+        },
+        {
+            "nome": "AVE",
+            "categoria": "ANIMAIS"
+        },
+        {
+            "nome": "CAMPO",
+            "categoria": "GEOGRAFIA"
+        },
+        {
+            "nome": "PRAIA",
+            "categoria": "GEOGRAFIA"
+        },
+        {
+            "nome": "CIDADE",
+            "categoria": "GEOGRAFIA"
+        },
+        {
+            "nome": "MONTANHA",
+            "categoria": "GEOGRAFIA"
+        },
+        {
+            "nome": "FLORESTA",
+            "categoria": "GEOGRAFIA"
+        },
+        {
+            "nome": "SHAMPOO",
+            "categoria": "HIGIENE"
+        },
+        {
+            "nome": "SABONETE",
+            "categoria": "HIGIENE"
+        },
+        {
+            "nome": "COTONETE",
+            "categoria": "HIGIENE"
+        },
+        {
+            "nome": "PERFUME",
+            "categoria": "HIGIENE"
+        },
+        {
+            "nome": "ESCOVA",
+            "categoria": "HIGIENE"
+        },
+        {
+            "nome": "ESPACO",
+            "categoria": "ASTRONOMIA"
+        },
+        {
+            "nome": "NEBULOSA",
+            "categoria": "ASTRONOMIA"
+        },
+        {
+            "nome": "HUBBLE",
+            "categoria": "ASTRONOMIA"
+        },
+        {
+            "nome": "PLANETA",
+            "categoria": "ASTRONOMIA"
+        },
+        {
+            "nome": "ANDROMEDA",
+            "categoria": "ASTRONOMIA"
+        },
+        {
+            "nome": "CIRURGIA",
+            "categoria": "MEDICINA"
+        },
+        {
+            "nome": "TRATAMENTO",
+            "categoria": "MEDICINA"
+        },
+        {
+            "nome": "MEDICAMENTO",
+            "categoria": "MEDICINA"
+        },
+        {
+            "nome": "SAUDE",
+            "categoria": "MEDICINA"
+        },
+        {
+            "nome": "DOENCA",
+            "categoria": "MEDICINA"
+        },
+        {
+            "nome": "RUINAS",
+            "categoria": "ARQUEOLOGIA"
+        },
+        {
+            "nome": "ARTEFATOS",
+            "categoria": "ARQUEOLOGIA"
+        },
+        {
+            "nome": "ESCAVACAO",
+            "categoria": "ARQUEOLOGIA"
+        },
+        {
+            "nome": "ANTROPOLOGIA",
+            "categoria": "ARQUEOLOGIA"
+        },
+        {
+            "nome": "CIVILIZACAO",
+            "categoria": "ARQUEOLOGIA"
+        },
+        {
+            "nome": "LESOTO",
+            "categoria": "PAISES"
+        },
+        {
+            "nome": "VANUATU",
+            "categoria": "PAISES"
+        },
+        {
+            "nome": "TADJIQUISTAO",
+            "categoria": "PAISES"
+        },
+        {
+            "nome": "BRASIL",
+            "categoria": "PAISES"
+        },
+        {
+            "nome": "ANGOLA",
+            "categoria": "PAISES"
+        },
+        {
+            "nome": "PALEONTOLOGIA",
+            "categoria": "FOSSIL"
+        },
+        {
+            "nome": "PEGADAS",
+            "categoria": "FOSSIL"
+        },
+        {
+            "nome": "EVOLUCAO",
+            "categoria": "FOSSIL"
+        },
+        {
+            "nome": "AMBAR",
+            "categoria": "FOSSIL"
+        },
+        {
+            "nome": "DINOSSAURO",
+            "categoria": "FOSSIL"
+        }
+    ]
+}

@@ -1,0 +1,176 @@
+@import url('https://fonts.googleapis.com/css2?family=Ubuntu:ital@0;1&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: white;
+    width: 1550px;
+    height: 90px;
+    box-sizing: border-box;
+}
+.container {
+    position: relative;
+    width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    flex-direction: column;
+    flex-wrap: wrap;
+    font-family: 'Ubuntu', sans-serif;
+}
+.player {
+    margin-top: 105px;
+    text-align: center;
+    background-color: rgba(83, 83, 83, 0.46);
+    padding-top: 250px;
+    padding-bottom: 125px;
+    margin-left: 499px;
+    margin-right: 499px;
+    border-radius: 10px;
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(66, 66, 66);
+}
+#apresentação {
+    border: none;
+    margin-left: 10px;
+    margin-right: 10px;
+    margin-top: -200px;
+    margin-bottom: 60px;
+    color: rgb(255, 255, 255);
+    font-family: 'Ubuntu', sans-serif;
+}
+#incxt {
+    background-color: transparent;
+    border: none;
+    font-family: 'Ubuntu', sans-serif;
+}
+#iniciar {
+    background-color: rgba(0, 210, 77, 0.771);
+    text-decoration: none;
+    color: #ffffff;
+    border: none;
+    display: flex;
+    height: 50px;
+    width: 200px;
+    text-align: center;
+    padding-top: 9px;
+    padding-left: 57px;
+    font-size: x-large;
+    border-radius: 5px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.container h1 {
+    border: none;
+    background: rgba(0, 210, 77, 0.771);
+    height: 50px;
+    width: auto;
+    border-radius: 10px;
+    text-align: center;
+    font-family: 'Ubuntu', sans-serif;
+}
+#Palavra-secreta{
+    display: flex;
+    margin-left: 300px;
+    height: 320px;
+    align-items: center;
+    flex-direction: row;
+    justify-content: center;
+    font-size: 1em;
+    margin-top: -320px;
+    margin-bottom: 200px;
+}
+.letras{
+    text-align: center;
+    border-bottom: #000 1px solid;
+    color: #000000;
+    padding: 2px;
+    margin-left: 2px;
+    margin-right: 2px;
+    font-family: 'Ubuntu', sans-serif;
+    width: 50px;
+}
+#categoria {
+    width: 560px;
+    height: 60px;
+    background: rgba(0, 210, 77, 0.771);
+    border-radius: 10px;
+    margin-top: -200px;
+    margin-left: 100px;
+    text-align: center;
+    padding-top: 15px;
+    font-family: 'Ubuntu', sans-serif;
+    font-size: large;
+    font-size: 25px;
+}
+#teclado {
+    position: relative;
+    padding: 20px;
+    background: rgba(0, 106, 28, 0.46);
+    border-radius: 10px;
+    margin-top: 10px;
+}
+#imgForca {
+    height: 320px;
+    width: 300px;
+    background-image: url("/imagem/Imagem.png");
+    background-position: right;
+    background-repeat: no-repeat;
+    opacity: 0.8;
+}
+.flex button {
+    border: none;
+    cursor: pointer;
+    padding: 15px 15px 15px 15px;
+    height: 50px;
+    left: 80px;
+    top: 30px;
+    background-color: rgba(255, 255, 255, 0.253);
+    border-radius: 10px;
+    width: 50px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 44px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    margin-right: 25px;
+    font-family: 'Ubuntu', sans-serif;
+}
+.flex button:disabled {
+    cursor: not-allowed;
+}
+.flex {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 25px;
+    position: relative;
+    top: 20px;
+    right: -13px;
+    font-family: 'Ubuntu', sans-serif;
+}
+#BtnEnter {
+    width: 150px;
+    background-image: url("/imagem/Enter.png");
+    background-size: cover;
+    background-position: center;
+    opacity: 0.253;
+}
+#BtnEnter:hover {
+    opacity: 0.4;
+}
+button:hover {
+    background-color: #ffffff6b;
+    opacity: 0.4;
+    transform: scale(1.08);
+}
+@media (max-width: 600px ) {
+    .container{
+        width: 300px;
+        height: 300px;
+        margin: 100px;
+    }
+}
